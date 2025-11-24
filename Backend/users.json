@@ -1,0 +1,37 @@
+{
+    "user@example.com": {
+        "name": "string",
+        "phone": "string",
+        "password": "string",
+        "gender": "string",
+        "terms_accepted": true
+    },
+    "punithd416@gmail.com": {
+        "name": "abcd",
+        "phone": "1111111111",
+        "password": "abcd@1234",
+        "gender": "male",
+        "terms_accepted": true
+    },
+    "puni@gmail.com": {
+        "name": "xyz",
+        "phone": "999999999",
+        "password": "xyz@1234",
+        "gender": "Male",
+        "terms_accepted": true
+    },
+    "punithd46@gmail.com": {
+        "name": "qwer",
+        "phone": "2222222222",
+        "password": "1221234",
+        "gender": "Male",
+        "terms_accepted": true
+    },
+    "om@gmail.com": {
+        "name": "malspy",
+        "phone": "9999988888",
+        "password": "mal1234",
+        "gender": "Male",
+        "terms_accepted": true
+    }
+}
